@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OIjNX8Ni04A=",
+  "dgSpecHash": "FhYsVBtT/R0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GABRIEL\\source\\repos\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
+  "projectFilePath": "C:\\Users\\GABRIEL\\Desktop\\PruebaGB\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GABRIEL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\GABRIEL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

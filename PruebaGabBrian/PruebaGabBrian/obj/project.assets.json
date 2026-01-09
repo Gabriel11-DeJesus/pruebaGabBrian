@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GABRIEL\\source\\repos\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
+      "projectUniqueName": "C:\\Users\\GABRIEL\\Desktop\\PruebaGB\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
       "projectName": "PruebaGabBrian",
-      "projectPath": "C:\\Users\\GABRIEL\\source\\repos\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
+      "projectPath": "C:\\Users\\GABRIEL\\Desktop\\PruebaGB\\PruebaGabBrian\\PruebaGabBrian\\PruebaGabBrian.csproj",
       "packagesPath": "C:\\Users\\GABRIEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GABRIEL\\source\\repos\\PruebaGabBrian\\PruebaGabBrian\\obj\\",
+      "outputPath": "C:\\Users\\GABRIEL\\Desktop\\PruebaGB\\PruebaGabBrian\\PruebaGabBrian\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
